@@ -1,0 +1,21 @@
+.jumbotron
+{
+	text-align: center;
+	line-height:30px;
+	background: url('../img/timg.jpg') no-repeat;
+}
+.neirong{
+
+	line-height:auto;
+}
+.author{
+	margin:20px 0;
+}
+.footer{
+	text-align:center;
+	font-size:12px;
+	color:#fff;
+}
+.footer p{
+	line-height:40px;
+}
